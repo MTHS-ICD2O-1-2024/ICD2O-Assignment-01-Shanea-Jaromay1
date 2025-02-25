@@ -3,31 +3,40 @@
 * This file contains the CSS for index.html
 */
 body {
-  background-color: #ccbfff;
+  background-color: #a3e0ff;
   text-align: center;
+  border: solid thin;
+  border-color: black;
 }
 
 h1 {
-  background-color: #dbceff;
+  background-color: #ffffff;
   color: hsl(0 0% 0%);
   padding: 40px;
   text-align: center;
   font-size: 40px;
+  border: solid thin;
+  border-color: black;
 }
 h2{
   font-size: small;
-  background-color: #fcd5ff;
+  background-color: #ffffff;
+  border: solid thin;
+  border-color: black;
 }
 h3{
   font-size: small;
+  border: solid thin;
+  border-color: black;
 }
 p{
-  background-color:#fcd5ff;
+  background-color:#ffffff;
   font-size: medium;
+  border: solid thin;
+  border-color: black;
 }
-p2{
-  background-color: #fcd5ff;
-}
-p3{
-  background-color: #fcd5ff;
+ul{
+  background-color: #ffffff;
+  border: solid thin;
+  border-color: black;
 }
