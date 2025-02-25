@@ -1,4 +1,33 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Shanea Jaromay
+* Created on: February 2025
 * This file contains the CSS for index.html
 */
+body {
+  background-color: #ccbfff;
+  text-align: center;
+}
+
+h1 {
+  background-color: #dbceff;
+  color: hsl(0 0% 0%);
+  padding: 40px;
+  text-align: center;
+  font-size: 40px;
+}
+h2{
+  font-size: small;
+  background-color: #fcd5ff;
+}
+h3{
+  font-size: small;
+}
+p{
+  background-color:#fcd5ff;
+  font-size: medium;
+}
+p2{
+  background-color: #fcd5ff;
+}
+p3{
+  background-color: #fcd5ff;
+}
